@@ -1,4 +1,4 @@
-# E-Commerce Analytics Database  
+# E-Commerce Analytics Database (PostgreSQL)
 
 A simplified relational database project for analyzing e-commerce operations.  
 Designed as a portfolio project to demonstrate SQL proficiency, including:  
